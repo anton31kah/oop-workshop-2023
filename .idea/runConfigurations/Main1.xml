@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main1" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="Main1" />
+    <option name="MAIN_CLASS_NAME" value="day1.Main1" />
     <module name="oop-workshop" />
     <method v="2">
       <option name="Make" enabled="true" />

@@ -1,3 +1,5 @@
+package day1;
+
 public class Floor {
   private Apartment apartment1;
   private Apartment apartment2;

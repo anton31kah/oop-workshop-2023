@@ -1,3 +1,5 @@
+package day1;
+
 public class Student {
   private String name;
   private String lastname;

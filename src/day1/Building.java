@@ -1,3 +1,5 @@
+package day1;
+
 public class Building {
   private String street;
   private Floor floor1;

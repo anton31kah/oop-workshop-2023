@@ -1,3 +1,5 @@
+package day1;
+
 public class Main1 {
   public static void main(String[] args) {
     Student student1 = new Student("Petre", "Petreski", 12, 161555, 20, 10.0f);

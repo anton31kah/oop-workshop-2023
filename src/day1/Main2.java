@@ -1,3 +1,5 @@
+package day1;
+
 public class Main2 {
   public static void main(String[] args) {
     Apartment apartment1 = new Apartment(false, 1, 50);
